@@ -1,0 +1,53 @@
+/*	-------------------    \
+		COLOR THEME
+\	-------------------   */
+.bg-light{
+	background-color:#FDFEFE !important;
+}
+
+.bg-dark{
+	background-color:#323232 !important;
+}
+
+/*	-------------------    \
+		HEADER
+\	-------------------   */
+#logo{
+	width: 2.5em;
+}
+.translator img{
+	width: 2.5em;
+	border-radius: 18%;
+}
+
+.carousel-item img{
+	height: 50em;
+}
+
+.carousel-caption{
+	margin-bottom:30%;
+	color: #FDFEFE;
+}
+
+.laloupiote-title{
+	font-family: 'Great Vibes', cursive;
+	font-size: 5em;
+}
+/*	-------------------    \
+		GENERAL
+\	-------------------   */
+.section-content{
+	padding-top: 10em;
+	padding-bottom: 10Em;
+}
+
+/*	-------------------    \
+		FOOTER
+\	-------------------   */
+.network img{
+	width: 2.5em;
+	border-radius: 18%;
+}
+#logo-footer{
+	width: 8em;
+}
