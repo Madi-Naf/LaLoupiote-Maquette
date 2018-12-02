@@ -1,0 +1,34 @@
+/*	-------------------    \
+		COLOR THEME
+\	-------------------   */
+body{
+	background-image:  url(../Maquette_Site/img/04llp.jpg) !important;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.bg-light{
+	background-color: #FDFEFE !important;
+}
+
+.bg-dark{
+	background-color: #323232 !important;
+}
+
+.dark-text{
+	color: #323232 !important;
+}
+.light-text{
+	color: #FDFEFE !important;
+}
+.paraph-text, #horaire{
+	font-size: 1.5em;
+}
+
+.form-content{
+	margin-top: 1em !important;
+	padding-top: 10em;
+	padding-bottom: 20em;
+
+	border-radius: 1.8%;
+	opacity: 0.85;
+}
