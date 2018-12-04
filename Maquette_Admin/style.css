@@ -5,6 +5,7 @@ body{
 	background-image:  url(../Maquette_Site/img/04llp.jpg) !important;
 	background-position: center;
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 .bg-light{
 	background-color: #FDFEFE !important;
