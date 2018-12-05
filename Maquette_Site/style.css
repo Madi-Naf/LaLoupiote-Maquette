@@ -9,6 +9,19 @@
 	background-color:#323232 !important;
 }
 
+.dark-text{
+	color: #323232 !important;
+}
+.light-text{
+	color: #FDFEFE !important;
+}
+.paraph-text, #horaire{
+	font-size: 1.5em;
+}
+
+#horaire li{
+	list-style: none;
+}
 /*	-------------------    \
 		HEADER
 \	-------------------   */
@@ -22,20 +35,32 @@
 
 .carousel-item img{
 	height: 50em;
+	opacity: 0.45;
 }
 
 .carousel-caption{
 	margin-bottom:30%;
-	color: #FDFEFE;
+	color: #323232;
 }
 
 .laloupiote-title{
 	font-family: 'Great Vibes', cursive;
 	font-size: 5em;
 }
+.fa-angle-double-down{
+	color: #323232;
+	font-size: 3em;
+}
+.fa-angle-double-down:hover{
+	color: #9e1525;
+	font-size: 3em;
+}
 /*	-------------------    \
 		GENERAL
 \	-------------------   */
+*{
+	scroll-behavior: smooth;
+}
 .section-content{
 	padding-top: 10em;
 	padding-bottom: 10Em;

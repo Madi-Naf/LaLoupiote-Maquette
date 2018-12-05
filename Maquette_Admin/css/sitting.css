@@ -1,0 +1,12 @@
+i{
+	font-size: 6em;
+}
+/* ------------------- */
+.form-horaires{
+	margin-top: 1em !important;
+	padding-top: 2em;
+	padding-bottom: 2em;
+
+	border-radius: 1.8%;
+	opacity: 0.85;
+}
