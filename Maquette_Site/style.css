@@ -1,6 +1,16 @@
 /*	-------------------    \
 		COLOR THEME
 \	-------------------   */
+.bg-loupiote{
+
+	background-position: center;
+	background: linear-gradient(90deg, rgba(228,228,244,0.4) 0%, rgba(228,228,244,0.4) 35%, rgba(228,228,244,0.4) 100%),
+	url("img/04llp.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+}
+
 .bg-light{
 	background-color:#FDFEFE !important;
 }
