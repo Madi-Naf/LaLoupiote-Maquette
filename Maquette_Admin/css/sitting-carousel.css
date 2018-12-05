@@ -1,0 +1,16 @@
+/* ------------------- \
+		CAROUSEL
+\ --------------------*/
+.form-carousel{
+	margin-top: 2em !important;
+	margin-bottom: 5em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+
+	border-radius: 1.8%;
+	opacity: 0.85;
+}
+
+body{
+	background-color:#FDFEFE !important;
+}
