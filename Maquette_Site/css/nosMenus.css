@@ -1,0 +1,114 @@
+/* .height {
+    height: 1500px;
+    background-color: #eae1e1;
+} */
+
+body {
+    background-color: #cabfbf;
+    height: 1500px;
+}
+
+.fontsize {
+    font-size: 1.5em;
+}
+
+/******Partie ordinateur*****/
+
+.widthNosMenus {
+    height: 107em;
+    background-color: #323232;
+    text-align: center;
+}
+
+.widthNosMenusFormules {
+    height: 40em;
+    background-color: #323232;
+    text-align: center;
+}
+
+.colorNosMenus {
+    background-color: #e8e0d0;
+}
+
+
+
+/*****Partie mobile*****/
+
+.buttonweight {
+    width: 19em;
+    margin-bottom: 8em;
+}
+
+.underbuttonweight {
+    width: 28em;
+}
+
+.margintopbutton {
+    margin-top: 5em;
+}
+
+.dropdownindexbutton {
+    
+    z-index: -9;
+    
+}
+
+.dropdownindextext {
+    z-index: 30;
+    position: fixed;
+    background-color: white;
+    margin-top: -1em;
+}
+
+.FormulesButtonindex {
+    z-index: 0;
+}
+
+.hideunwantedbar {
+    background-color: #cabfbf;
+}
+
+.dropdownindextextFormules {
+    margin-top: -0.5em;
+}
+
+.positionstickySommaire {
+    position: sticky;
+    top: 7em;
+}
+
+.positionstickyMenu {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.margintopAffichagePC {
+    margin-top: 7em;
+}
+
+.CategorieSize {
+    font-size: 1.5em;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.margintopSommaire {
+    margin-top: 10em !important;
+}
+
+li, .sizeprix {
+    font-size: 1.5em;
+}
+
+.fontsizemobile {
+    font-size: 1.5em;
+}
