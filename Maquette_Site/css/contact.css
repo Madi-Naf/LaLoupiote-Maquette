@@ -2,7 +2,7 @@ body {
 	
 	background-position: center;
 	background: linear-gradient(90deg, rgba(228,228,244,0.4) 0%, rgba(228,228,244,0.4) 35%, rgba(228,228,244,0.4) 100%),
-	url("/home/soizic/Bureau/LaLoupiote-Maquette/Maquette_Site/img/04llp.JPG");
+	url("../img/04llp.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     margin:0;
@@ -90,6 +90,6 @@ textarea {
 	/**/
   color: #fff;
   border: 1px solid rgba(223,190,106,0);
-  color: $white;
+  color: white;
   background-position: 99% 50%;
 }
