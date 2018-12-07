@@ -44,7 +44,7 @@ body {
 }
 
 .margintopbutton {
-    margin-top: 5em;
+    margin-top: 4em !important;
 }
 
 .dropdownindexbutton {
@@ -112,4 +112,56 @@ li, .sizeprix {
 .fontsizemobile {
     font-size: 1.5em;
 }
+
+.marginbottombutton {
+    margin-bottom: 25em !important;
+}
+
+
+/**CSS recopié de la page principale **/
+
+
+/** c'est le font size qui faisait tout buguer je l'ai changé**/
+/** nouveau problème : les 2 menus s'ouvrent quand on click**/
+.btn {
+    display: inline-block;
+    background: transparent;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.5rem; 
+     letter-spacing: 0.3em; 
+    color: #fff;
+    border-radius: 0;
+    padding: 18px 80px 20px;
+    transition: all 0.7s ease-out !important;
+    background: linear-gradient(270deg, rgba(223,190,106,0.8), rgba(146,111,52,0.8), rgba(34,34,34,0), rgba(34,34,34,0));
+    background-position: 1% 50%;
+    background-size: 300% 300%;
+    text-decoration: none;
+    /* margin: 0.625rem; */
+    border: none;
+    border: 1px solid rgba(223,190,106,0.3);
+}
+
+.btn:hover {
+    color: #fff;
+    border: 1px solid rgba(223,190,106,0);
+    color: white;
+    background-position: 99% 50%;
+  }
+
+
+.bg-loupiote{
+
+	background-position: center;
+	background: linear-gradient(90deg, rgba(228,228,244,0.4) 0%, rgba(228,228,244,0.4) 35%, rgba(228,228,244,0.4) 100%),
+	url("../img/04llp.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    height: 107em;
+
+}
+
 
